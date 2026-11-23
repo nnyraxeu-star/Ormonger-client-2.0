@@ -1,9 +1,3 @@
-# ormongerclient
+# Ormonger client
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+the simple anarchy client that can be useful on anarchy here is donwload : https://drive.google.com/file/d/1YsaG6vOPVk82hDJ3XBma3Q_UPMnPTX6_/view?usp=drive_link
